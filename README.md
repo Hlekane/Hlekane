@@ -6,8 +6,8 @@
 ---
 
 8+ years in IT support and operations, building toward data engineering.
-I work with operational data to improve reporting, efficiency, and decision-making —
-and I'm developing end-to-end skills in pipelines, warehousing, and analytics.
+I work with operational data to improve reporting, efficiency, and decision-making.
+I'm currently developing end-to-end skills in pipelines, warehousing, and analytics.
 
 ---
 
