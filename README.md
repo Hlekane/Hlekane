@@ -1,6 +1,6 @@
 # Hlekane Ngobeni
 
-**IT Services Support Professional | Transitioning into Data Engineering & Analytics**
+**IT Support Professional | Transitioning into Data Engineering & Analytics**
 📍 Pretoria, ZA
 
 ---
